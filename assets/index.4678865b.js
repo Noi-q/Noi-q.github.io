@@ -1,1 +1,0 @@
-import{d as n,r as o,a as s,o as a,c}from"./index.5bd620bb.js";const r="# \u6D4B\u8BD5\n\n```js\nconsole.log(123)\n```",x=n({__name:"index",setup(_){const e=o(r);return(m,l)=>{const t=s("v-md-preview");return a(),c(t,{text:e.value},null,8,["text"])}}});export{x as default};
