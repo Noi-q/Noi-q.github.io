@@ -1,4 +1,4 @@
-import{d as s,r as t,a as i,o as d,c as a,b as c,e,f as p,F as l}from"./index.0cde383d.js";const m=`## \u89E3\u51B3KDE\u684C\u9762\u73AF\u5883\u52A0\u8F7DDiscover\u6162\u548C\u52A0\u8F7D\u5931\u8D25\u7684\u95EE\u9898
+import{d as s,r as t,a as i,o as d,c as a,b as c,e,f as p,F as l}from"./index.ea81f4dc.js";const m=`## \u89E3\u51B3KDE\u684C\u9762\u73AF\u5883\u52A0\u8F7DDiscover\u6162\u548C\u52A0\u8F7D\u5931\u8D25\u7684\u95EE\u9898
 
 ### \u62A5\u9519\u65E5\u5FD7
 \`\u65E0\u6CD5\u4ECE\u6587\u4EF6 https://autoconfig.kde.org/ocs/providers.xml \u4E2D\u52A0\u8F7D\u5185\u5BB9\u63D0\u4F9B\u8005\u7684\u4FE1\u606F\`
